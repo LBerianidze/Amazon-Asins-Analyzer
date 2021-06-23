@@ -1,0 +1,6 @@
+/*.json
+/vendor
+/MarketplaceWebServiceProducts
+/.idea
+/*.php
+!indexm.php
